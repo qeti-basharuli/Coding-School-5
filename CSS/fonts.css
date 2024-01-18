@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Roboto-Medium';
+    src: url('../Fonts/Roboto-Medium.eot');
+    src: url('../Fonts/Roboto-Medium.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/Roboto-Medium.woff2') format('woff2'),
+        url('../Fonts/Roboto-Medium.woff') format('woff'),
+        url('../Fonts/Roboto-Medium.svg#Roboto-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans Condensed';
+    src: url('../Fonts/open-sans/OpenSansCondensed-Regular.eot');
+    src: url('../Fonts/open-sans/OpenSansCondensed-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../Fonts/open-sans/OpenSansCondensed-Regular.woff2') format('woff2'),
+        url('../Fonts/open-sans/OpenSansCondensed-Regular.woff') format('woff'),
+        url('../Fonts/open-sans/OpenSansCondensed-Regular.svg#OpenSansCondensed-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
